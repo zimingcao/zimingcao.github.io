@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Ziming Cao"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : 
   location         : "Farmington, CT"
   employer         :
   pubmed           : 
