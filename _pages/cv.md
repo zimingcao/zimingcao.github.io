@@ -12,28 +12,19 @@ redirect_from:
 Education
 ======
 * B.S. in Biology with distinction, Purdue University, 2021
-* Ph.D in Biomedical Sciences, University of Connecticut, 2028 (expected)
+* Ph.D student in Biomedical Sciences, UConn Health, Present
 
-Work experience
+Research  experience
 ======
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+I know nothing
 
 Publications
 ======
@@ -55,4 +46,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Second-Year Rep, Graduate Student Organization, 2023-2024
+* First-Year Rep, Graduate Student Organization, 2022-2023
