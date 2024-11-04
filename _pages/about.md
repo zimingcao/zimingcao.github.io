@@ -8,13 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year PhD student at [UConn Health](https://health.uconn.edu/graduate-school/).
-<br/><br/>
+I am currently a third-year Ph.D. student at [UConn Health](https://health.uconn.edu/graduate-school/).
 
-In 2021, I received my B.S. with distinction from [Purdue University](https://www.purdue.edu/) in Indiana, where I got trained on molecular cloning and zebra fish techniques as a undergraduate research assistant in [Dr. Qing Deng's lab](https://www.denglab.us/) for two years. After graduation, I moved to Connecticut and strated as an reseach assitant in [Dr. Zhichao Fan's lab](https://zhichaofan1985.wixsite.com/fanlab) at UConn Health, where I conducted futher research in neutrophils and integrins. 
-<br/><br/>
+In 2021, I earned my B.S. with distinction from [Purdue University](https://www.purdue.edu/) in Indiana, where I trained in molecular cloning and zebrafish techniques as an undergraduate research assistant in [Dr. Qing Deng's lab](https://www.denglab.us/) for two years. After graduation, I moved to Connecticut and joined [Dr. Zhichao Fan's lab](https://zhichaofan1985.wixsite.com/fanlab) at UConn Health as a research assistant, where I continued exploring neutrophils and integrins.
 
-My research interests spaning from bioinformatics analysis on transcroptomic data to mouse disease model, such as inflammatory bowel disease (IBD). Specifically, the role of neutrohil in IBD and the potential neural regulation of neutrophils in the context of IBD. 
-<br/><br/>
+My research interests span bioinformatics analysis of transcriptomic data to disease models in mice, particularly inflammatory bowel disease (IBD). I focus on understanding the role of neutrophils in IBD and exploring potential neural regulation mechanisms of neutrophils in this context.
 
-I am also keen to serve my graduate student community as academic chair at Graduate Student Organization (GSO) and research community as ad hoc reviewer for multiple journals including Journal of Leukocyte Biology, Molecular Immunology, and Physiological Genomics, etc. 
+I am also committed to serving my academic community as the academic chair of the Graduate Student Organization (GSO) and contributing to the research community as an ad hoc reviewer for several journals, including Journal of Leukocyte Biology, Molecular Immunology, and Physiological Genomics.
